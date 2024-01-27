@@ -1,7 +1,7 @@
 {
 	"name": "opauth/google",
 	"description": "Google strategy for Opauth",
-	"keywords": ["authentication","auth","google"],
+	"keywords": ["authentication","auth","doogle"],
 	"homepage": "http://opauth.org",
 	"license": "MIT",
 	"authors": [
